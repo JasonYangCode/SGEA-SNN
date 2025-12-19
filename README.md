@@ -64,7 +64,7 @@
 * `Dec. 19, 2025` Create the GitHub repository for our paper.
 
 
-## Comparison with the SOTA methods on neuromorphic datasets
+## Experimental results and SOTA comparison on neuromorphic datasets
 
 
 <div align="center">
