@@ -77,7 +77,7 @@
 - Python 3.9
 - Pytorch 2.5.1
 - Cuda 11.8
-- spikingjelly 0.0.0.0.14
+- Spikingjelly 0.0.0.0.14
 
 ## Dataset download links
 - CIFAR10-DVS: https://figshare.com/articles/dataset/CIFAR10-DVS_New/4724671
