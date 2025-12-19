@@ -64,11 +64,11 @@
 * `Dec. 19, 2025` Create the GitHub repository for our paper.
 
 
-## Experimental results and SOTA comparison on neuromorphic datasets
+## Performance comparison on neuromorphic datasets under varying timesteps
 
 
 <div align="center">
-  <img src="Fig/SOTA.png" width="95%" alt="STCA-SNN" />
+  <img src="Fig/SOTA.png" width="85%" alt="STCA-SNN" />
 </div>
 
 
