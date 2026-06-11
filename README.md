@@ -99,5 +99,5 @@
 
 ## Acknowledgments
 
-- [ ] Chongqing Key Laboratory of Neuromorphic Computing and Intelligent Chips
-- [ ] National-Local Joint Engineering Research Center for Intelligent Transmission and Control Technology
+- [ ] Chongqing Key Laboratory of Brain-inspired Computing and Intelligent Chips
+- [ ] National & Local Joint Engineering Research Center of Intelligent Transmission and Control Technology
