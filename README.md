@@ -9,12 +9,12 @@
 
 
 <div>
-    Qing Yang<sup>a,c</sup>,</span>
-    Meiling Zhong<sup>a,c</sup>,</span>
-    Jiabin Sun<sup>a,c</sup>,</span>
+    Qing Yang<sup>a</sup>,</span>
+    Meiling Zhong<sup>a</sup>,</span>
+    Jiabin Sun<sup>a</sup>,</span>
     Ziyan Feng<sup>b</sup>,</span>
-    Jie Li<sup>a,c</sup>,</span>
-    Xiurong Zhong<sup>a,c</sup>,</span>
+    Jie Li<sup>a</sup>,</span>
+    Xiurong Zhong<sup>a</sup>,</span>
     Shukai Duan<sup>a,c,d,e,f</sup>,</span>
     Lidan Wang<sup>a,c,d,e,f,*</sup></span>
 </div>
