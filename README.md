@@ -96,3 +96,8 @@
 ## Note
 
 - [ ] The code will be released in stages. If you have any questions, feel free to send an email to `qingyangswu(AT)gmail DOT com`. I will respond to you as soon as possible. Let us work together to contribute to the development of spiking neural networks.
+
+## Acknowledgments
+
+- [ ] Chongqing Key Laboratory of Neuromorphic Computing and Intelligent Chips
+- [ ] National-Local Joint Engineering Research Center for Intelligent Transmission and Control Technology
